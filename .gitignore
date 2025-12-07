@@ -7,6 +7,9 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 [Uu]serSettings/
+[Bb]in/
+.utmp/
+mono_crash*
 
 # Rider / VS / VSCode
 .idea/
